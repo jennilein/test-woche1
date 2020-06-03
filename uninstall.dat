@@ -1,0 +1,60 @@
+; EasySetup - Version 2.0.4e
+; © Thorsten Hoeppner
+; ---------------------------
+[Settings]
+ProgName = Tollzeit
+Version = 1.80e
+NoDelAll = 0
+MutexString = 
+Script = 0
+ProgDir = c:\bernd\tollzeit\
+DataDir = c:\bernd\tollzeit\
+ProgExe = TOLLZEIT.EXE
+GUID = {A68B2139-907C-4C6E-AF73-5C311FE55179}
+ProgLink = TOLLZEIT
+StartMenu = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TOLLZEIT\
+DesktopIcon = 
+LoginAdmin = 0
+[Files]
+F0001 = Readme.txt
+F0002 = Tollzeit.exe
+F0003 = tollzeit.md5
+F0004 = Version\32bit\inst16_link.bat
+F0005 = Version\32bit\Tollzeit(16).lnk
+F0006 = Version\Source\source.zip
+[Dirs]
+D0001 = Version\32bit\
+D0002 = Version\Source\
+D0003 = Version\
+[Language]
+Titel = Deinstallation des Programmes
+Msg = Programmdateien und Einstellungen werden entfernt.
+Version = Version
+UninstInfo = Entferne folgendes Programm von ihrem Computer:
+DelAll = Lösche alle(!) Dateien im Verzeichnis (incl. Benutzerdateien).
+Error = Deinstallation des Programmes nicht möglich.
+Mutex = Schließen Sie zuerst das Programm '$Titel'!|Drücken Sie anschließend 'OK'!
+Status = Deinstallation beendet.
+Logon = Einloggen als Administrator
+User = Benutzername:
+Password = Passwort:
+RQ_Titel = Error - Login
+RQ_Msg = Anmeldung fehlgeschlagen.
+OK = OK
+Cancel = Abbrechen
+Ready = Schließen
+Login = Anmelden
+[StartMenu]
+Program = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TOLLZEIT\TOLLZEIT.lnk
+AddExe = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TOLLZEIT\.lnk
+Help = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TOLLZEIT\Hilfe.lnk
+Homepage = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TOLLZEIT\Homepage.lnk
+IUpdater = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TOLLZEIT\InternetUpdater.lnk
+Uninstall = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TOLLZEIT\Deinstallieren.lnk
+[StartProg]
+BeforeUninst = 
+BeforeParam = 
+AfterUninst = 
+AfterParam = 
+[UserTask]
+Number = 0
