@@ -1,0 +1,134 @@
+Unit Zeit Gleitkomma-Modulus aktiv
+heute 16.05.2020 13:35:54,04
+Wochentag     = Montag
+TT.MM.JJ      = 22.02.16
+TT.MM.JJJJ    = 22.02.2016
+JJJJ-MM-TT    = 2016-02-22
+HH:MM:SS      = 12:00:00
+HH:MM:SS,MS   = 12:00:00,00
+Timestamp     = 22.02.2016 12:00:00,00
+Datum/Zeit    = Montag, 22.Februar 2016, 12:00:00
+absolute Zeit = 736.015 Tage == 6.359.173.920.000 HS
+FT OK
+Jahr: 2016 Anzahl: 28
+1:Neujahr am 1.1.2016 nIMJAHR=1 WT Freitag(5) kette=01.01.2016 Rang=1
+2:3 K”nige am 6.1.2016 nIMJAHR=6 WT Mittwoch(3) kette=06.01.2016 Rang=2
+3:Weiberfastnacht am 4.2.2016 nIMJAHR=35 WT Donnerstag(4) kette=04.02.2016 Rang=3
+4:Rosenmontag am 8.2.2016 nIMJAHR=39 WT Montag(1) kette=08.02.2016 Rang=4
+5:Blue Monday am 8.2.2016 nIMJAHR=39 WT Montag(1) kette=08.02.2016 Rang=5
+6:Fastnacht am 9.2.2016 nIMJAHR=40 WT Dienstag(2) kette=09.02.2016 Rang=6
+7:Aschermittwoch am 10.2.2016 nIMJAHR=41 WT Mittwoch(3) kette=10.02.2016 Rang=7
+8:Karfreitag am 25.3.2016 nIMJAHR=85 WT Freitag(5) kette=25.03.2016 Rang=8
+9:Ostersonntag am 27.3.2016 nIMJAHR=87 WT Sonntag(7) kette=27.03.2016 Rang=9
+10:Ostermontag am 28.3.2016 nIMJAHR=88 WT Montag(1) kette=28.03.2016 Rang=10
+11:1.Mai am 1.5.2016 nIMJAHR=122 WT Sonntag(7) kette=01.05.2016 Rang=11
+12:Himmelfahrt am 5.5.2016 nIMJAHR=126 WT Donnerstag(4) kette=05.05.2016 Rang=12
+13:Muttertag am 8.5.2016 nIMJAHR=129 WT Sonntag(7) kette=08.05.2016 Rang=13
+14:Pfingstsonntag am 15.5.2016 nIMJAHR=136 WT Sonntag(7) kette=15.05.2016 Rang=14
+15:Pfingstmontag am 16.5.2016 nIMJAHR=137 WT Montag(1) kette=16.05.2016 Rang=15
+16:Happy Kadaver am 26.5.2016 nIMJAHR=147 WT Donnerstag(4) kette=26.05.2016 Rang=16
+17:Geburtstag am 1.7.2016 nIMJAHR=183 WT Freitag(5) kette=01.07.2016 Rang=17
+18:3.Oktober am 3.10.2016 nIMJAHR=277 WT Montag(1) kette=03.10.2016 Rang=18
+19:Reformationstag am 31.10.2016 nIMJAHR=305 WT Montag(1) kette=31.10.2016 Rang=19
+20:AlleHeimlichen am 1.11.2016 nIMJAHR=306 WT Dienstag(2) kette=01.11.2016 Rang=20
+21:1.Advent am 27.11.2016 nIMJAHR=332 WT Sonntag(7) kette=27.11.2016 Rang=21
+22:2.Advent am 4.12.2016 nIMJAHR=339 WT Sonntag(7) kette=04.12.2016 Rang=22
+23:3.Advent am 11.12.2016 nIMJAHR=346 WT Sonntag(7) kette=11.12.2016 Rang=23
+24:4.Advent am 18.12.2016 nIMJAHR=353 WT Sonntag(7) kette=18.12.2016 Rang=24
+25:Heiligabend am 24.12.2016 nIMJAHR=359 WT Sonnabend(6) kette=24.12.2016 Rang=25
+26:1.Weihnachtstag am 25.12.2016 nIMJAHR=360 WT Sonntag(7) kette=25.12.2016 Rang=26
+27:2.Weihnachtstag am 26.12.2016 nIMJAHR=361 WT Montag(1) kette=26.12.2016 Rang=27
+28:Silvester am 31.12.2016 nIMJAHR=366 WT Sonnabend(6) kette=31.12.2016 Rang=28
+Wochentag     = Montag
+TT.MM.JJ      = 08.02.16
+TT.MM.JJJJ    = 08.02.2016
+JJJJ-MM-TT    = 2016-02-08
+HH:MM:SS      = 11:11:11
+HH:MM:SS,MS   = 11:11:11,11
+Timestamp     = 08.02.2016 11:11:11,11
+Datum/Zeit    = Montag, 08.Februar 2016, 11:11:11
+absolute Zeit = 736.001 Tage == 6.359.052.667.111 HS
+Rosenmontag und Blue Monday
+Wochentag     = Freitag
+TT.MM.JJ      = 01.07.66
+TT.MM.JJJJ    = 01.07.1966
+JJJJ-MM-TT    = 1966-07-01
+HH:MM:SS      = 00:42:17
+HH:MM:SS,MS   = 00:42:17,98
+Timestamp     = 01.07.1966 00:42:17,98
+Datum/Zeit    = Freitag, 01.Juli 1966, 00:42:17
+absolute Zeit = 717.882 Tage == 6.202.500.733.798 HS
+Wochentag     = Freitag
+TT.MM.JJ      = 01.07.16
+TT.MM.JJJJ    = 01.07.2016
+JJJJ-MM-TT    = 2016-07-01
+HH:MM:SS      = 00:42:17
+HH:MM:SS,MS   = 00:42:17,97
+Timestamp     = 01.07.2016 00:42:17,97
+Datum/Zeit    = Freitag, 01.Juli 2016, 00:42:17
+absolute Zeit = 736.145 Tage == 6.360.293.053.797 HS
+29.11.49 23:59:59,99
+719:59:59,99
+49 Jahre 11 Monate 29 Tage, 23:59:59,99
+50,005 Jahre / 600,065 Monate / 2.608,999 Wochen / 18.262,999 Tage / 438.311,999 h / 26.298.719,999 min / 1.577.923.199,99 s
+1.577.923.199,99 s
+Wochentag     = Mittwoch
+TT.MM.JJ      = 10.02.16
+TT.MM.JJJJ    = 10.02.2016
+JJJJ-MM-TT    = 2016-02-10
+HH:MM:SS      = 12:00:00
+HH:MM:SS,MS   = 12:00:00,00
+Timestamp     = 10.02.2016 12:00:00,00
+Datum/Zeit    = Mittwoch, 10.Februar 2016, 12:00:00
+absolute Zeit = 736.003 Tage == 6.359.070.240.000 HS
+plus 1 Jahr
+Wochentag     = Freitag
+TT.MM.JJ      = 10.02.17
+TT.MM.JJJJ    = 10.02.2017
+JJJJ-MM-TT    = 2017-02-10
+HH:MM:SS      = 12:00:00
+HH:MM:SS,MS   = 12:00:00,00
+Timestamp     = 10.02.2017 12:00:00,00
+Datum/Zeit    = Freitag, 10.Februar 2017, 12:00:00
+absolute Zeit = 736.369 Tage == 6.362.232.480.000 HS
+00.00.01 00:00:00,00
+00:00:00,00
+01 Jahre 00 Monate 00 Tage, 00:00:00,00
+1,002 Jahre / 12,025 Monate / 52,285 Wochen / 366,000 Tage / 8.784,000 h / 527.040,000 min / 31.622.400,00 s
+31.622.400,00 s
+minus 346 Tage
+Wochentag     = Sonntag
+TT.MM.JJ      = 01.03.15
+TT.MM.JJJJ    = 01.03.2015
+JJJJ-MM-TT    = 2015-03-01
+HH:MM:SS      = 12:00:00
+HH:MM:SS,MS   = 12:00:00,00
+Timestamp     = 01.03.2015 12:00:00,00
+Datum/Zeit    = Sonntag, 01.M„rz 2015, 12:00:00
+absolute Zeit = 735.657 Tage == 6.356.080.800.000 HS
+-9/-11/0 0/0/0/0
+-216/0/0/0
+0 Jahre -11 Monate -9 Tage, 0/0/0/0
+-0,947 Jahre / -11,368 Monate / -49,428 Wochen / -346,000 Tage / -8.304,000 h / -498.240,000 min / -29.894.400,00 s
+-29.894.400,00 s
+minus 347 Tage
+Wochentag     = Sonnabend
+TT.MM.JJ      = 28.02.15
+TT.MM.JJJJ    = 28.02.2015
+JJJJ-MM-TT    = 2015-02-28
+HH:MM:SS      = 12:00:00
+HH:MM:SS,MS   = 12:00:00,00
+Timestamp     = 28.02.2015 12:00:00,00
+Datum/Zeit    = Sonnabend, 28.Februar 2015, 12:00:00
+absolute Zeit = 735.656 Tage == 6.356.072.160.000 HS
+-10/-11/0 0/0/0/0
+-240/0/0/0
+0 Jahre -11 Monate -10 Tage, 0/0/0/0
+-0,950 Jahre / -11,401 Monate / -49,571 Wochen / -347,000 Tage / -8.328,000 h / -499.680,000 min / -29.980.800,00 s
+-0,950 Jahre
+-11,401 Monate
+-49,571 Wochen
+-347,000 Tage
+-8.328,000 h
+-499.680,000 min
+-29.980.800,00 s
