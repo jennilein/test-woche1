@@ -1,0 +1,41 @@
+DEFINITION MODULE Bild;
+(***************************************************************************
+ *                                                                         *
+ *                   privater E/A-Modul                                    *
+ *                                                                         *
+ *       Programmierer: B.Schubert, SG 88/08/01   IZ  TU Dresden           *
+ *                                                                         *
+ ***************************************************************************)
+
+PROCEDURE SetPos(Zeile,Spalte: CARDINAL);
+(* anderer Name fuer Goto                                                 *)
+
+PROCEDURE Lesen(VAR Code: CHAR; out: BOOLEAN);
+(* liest 1 Zeichen von der Tastatur ein und schreibt es wieder, falls es
+   druckbar war und out = TRUE                                            *)
+
+PROCEDURE Zeichen(Code: CHAR; posit: BOOLEAN; Zeile,Spalte: CARDINAL);
+(* gibt ein Zeichen aus, falls posit = TRUE, an (Zeile,Spalte)            *)
+
+PROCEDURE Ausgabe(Kette: ARRAY OF CHAR; Zeile,Spalte: CARDINAL);
+(* gibt Kette ab Bildschirmposition (Zeile,Spalte) aus                    *)
+
+PROCEDURE Eingabe(VAR Kette: ARRAY OF CHAR; Zeile,Spalte: CARDINAL);
+(* Eingabe Kette ab Bildschirmposition (Zeile,Spalte)                     *)
+
+PROCEDURE Zurueck();
+(* ueberschreibt das letzte Zeichen mit einem Leerzeichen und setzt wieder
+   auf die aktuelle Position                                              *)
+
+PROCEDURE Loeschen(Anfang,Ende,Spalte: CARDINAL);
+(* loescht von Position (Anfang,Spalte) bis Position(Ende,Spalte) den 
+   Bildschirm                                                             *)
+
+PROCEDURE Linie(Zeichen: CHAR; AnfZl,AnfSp,EndZl,EndSp: INTEGER);
+(* erzeugt eine angenaeherte Linie aus "Zeichen", von (Anfzl,Anfsp) bis
+   (Endzl,Endsp)                                                          *)
+  
+PROCEDURE Flaeche(Zeichen: CHAR; AnfZl,AnfSp,Zeilen,Spalten: INTEGER);
+(* schreibt ab (AnfZl,Anfsp) Zeilen*Spalten mal "Zeichen"                 *)
+  
+END Bild.

@@ -1,0 +1,15 @@
+(c) Bernd Schubert, Uni HRO
+ 
+  "Die Tuerme von HANOI"
+
+          Quelltexte 
+          ==========
+
+0. Hanoi.MOD         (iterativ, mit Feldern)                            
+1. Hanoi1.MOD        (rekursiv, mit Feldkeller)                         
+2. Hanoi2.MOD        (rekursiv)                                         
+3. Hanoi3.MOD        (iterativ, mit POINTER)                            
+4. Turm.MOD          (beruhend auf HANOI, Spiel mit Demonstration und   
+                      Selbstversuchsmoeglichkeit)
+Quellen 0-3 fÅr PC1715
+          4 fÅr Top Speed Modula

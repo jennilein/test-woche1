@@ -1,0 +1,77 @@
+; EasySetup - Version 2.0.4e
+; © Thorsten Hoeppner
+; ---------------------------
+[Settings]
+ProgName = Türme von Hanoi
+Version = 1.00e
+NoDelAll = 0
+MutexString = 
+Script = 0
+ProgDir = c:\bernd\thanoi\
+DataDir = c:\bernd\thanoi\
+ProgExe = THANOI.EXE
+GUID = {7A947E2B-F9B1-4612-887F-2E204B51AA04}
+ProgLink = THANOI
+StartMenu = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\THANOI\
+DesktopIcon = 
+LoginAdmin = 0
+[Files]
+F0001 = Labor\ADA\I_HANOI.ADA
+F0002 = Labor\ADA\R_HANOI.ADA
+F0003 = Labor\MODULA2\BIB.DOC
+F0004 = Labor\MODULA2\BILD.DEF
+F0005 = Labor\MODULA2\BILD.MOD
+F0006 = Labor\MODULA2\HANOI.MOD
+F0007 = Labor\MODULA2\HANOI1.MOD
+F0008 = Labor\MODULA2\HANOI2.MOD
+F0009 = Labor\MODULA2\HANOI3.MOD
+F0010 = Labor\MODULA2\TURM.MOD
+F0011 = Labor\PASCAL\GI_HANOI.PAS
+F0012 = Labor\PASCAL\GR_HANOI.PAS
+F0013 = Labor\PASCAL\I_HANOI.PAS
+F0014 = Labor\PASCAL\R_HANOI.PAS
+F0015 = Labor\PASCAL\TURM.PAS
+F0016 = readme.txt
+F0017 = THanoi.exe
+F0018 = THanoi.pas
+F0019 = Version\32bit\inst16_link.bat
+F0020 = Version\32bit\THanoi(16).lnk
+[Dirs]
+D0001 = Labor\ADA\
+D0002 = Labor\MODULA2\
+D0003 = Labor\PASCAL\
+D0004 = Labor\
+D0005 = Version\32bit\
+D0006 = Version\
+[Language]
+Titel = Deinstallation des Programmes
+Msg = Programmdateien und Einstellungen werden entfernt.
+Version = Version
+UninstInfo = Entferne folgendes Programm von ihrem Computer:
+DelAll = Lösche alle(!) Dateien im Verzeichnis (incl. Benutzerdateien).
+Error = Deinstallation des Programmes nicht möglich.
+Mutex = Schließen Sie zuerst das Programm '$Titel'!|Drücken Sie anschließend 'OK'!
+Status = Deinstallation beendet.
+Logon = Einloggen als Administrator
+User = Benutzername:
+Password = Passwort:
+RQ_Titel = Error - Login
+RQ_Msg = Anmeldung fehlgeschlagen.
+OK = OK
+Cancel = Abbrechen
+Ready = Schließen
+Login = Anmelden
+[StartMenu]
+Program = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\THANOI\THANOI.lnk
+AddExe = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\THANOI\.lnk
+Help = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\THANOI\Hilfe.lnk
+Homepage = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\THANOI\Homepage.lnk
+IUpdater = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\THANOI\InternetUpdater.lnk
+Uninstall = C:\Users\bernd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\THANOI\Deinstallieren.lnk
+[StartProg]
+BeforeUninst = 
+BeforeParam = 
+AfterUninst = 
+AfterParam = 
+[UserTask]
+Number = 0
